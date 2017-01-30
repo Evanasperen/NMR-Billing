@@ -1,0 +1,44 @@
+username	full name		group		department
+accounts	accounts		wanner		Chemistry
+aamili		Ahmed Aamili	sun			Chemistry
+ahacker		Anthony Hacker	sivaguru	Chemistry
+aiyer		Akila Iyer		sivaguru	Chemistry
+ander852 	Kyle Anderson	sibi		Chemistry
+ayu			Arvin Yu		webster		CPM
+bagu		John Bagu		bagu		Chemistry
+bagu2		John Bagu		bagu		Chemistry
+beaumier	Evan Beaumier	reu			test
+BNMR400		BNMR400			wanner		Chemistry
+cdeng		Chao Deng		sibi		Chemistry
+cdissana	Anu Dissanayake	sibi		Chemistry
+chem354		Chem354			courses		Chemistry
+chem429		Chem429			courses		Chemistry
+chem754		Chem754			courses		Chemistry
+chengzwa	Chengzhe Wang	sun			Chemistry
+cmccausl	Casey McCausland	rasmuss	Chemistry
+cook		Dr. Cook		cook		Chemistry
+dikumar		Dinesh Kumar	cook		Chemistry
+ermoran		Erik Moran		zhao		Chemistry
+galhenag	Taluka Galhenage	webster	CPM
+gma			Gaoyuan Ma		sibi		Chemistry
+good		Charles Good	reu			test
+hegishte	Rahul Hegishte	sun			Chemistry
+hsubrama	Hari			sibi		Chemistry
+jbackous	Jeff Backous	sibi		Chemistry
+bussard		Caitlin Bussard	sibi		Chemistry
+zdemchuck	Zoriana Demchuk	voronov		CPM
+Jeff		Jeff Scholl		admin		Chemistry
+jscholl		Jeff Scholl		admin		Chemistry
+anrenner	An Renner		balasub		test
+uzelac		Uz Elac			rasmuss		test
+saahuja		Sa Ahuja		sivaguru	test
+biosawe		Bi Osawe		sibi		test
+mwei		Mw Ei			sun			test
+feng2		Fe Ng2			mallik		test
+xiaozhu		Xi Aozhu		sun			test
+ypan		Yp An			yang		test
+xu10		Xu 10			sun			test
+serum		Se Rum			sibi		test1
+zhang19		Zh Ange19		zhao		test1
+raghunat	Ra Ghunat		sivaguru	test2
+rmanan		Rm Anan			zhao		test2

@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\Logic\bin\Debug\Logic.dll
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\Logic\bin\Debug\Logic.pdb
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\Logic\obj\Debug\Logic.dll
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\Logic\obj\Debug\Logic.pdb

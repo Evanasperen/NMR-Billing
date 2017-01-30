@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMRBillingApp", "NMRBillingApp\NMRBillingApp.csproj", "{AA15CCCC-2D41-4C19-B565-65C294335CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{CE0B8359-C38B-4900-B8F3-55018A9A1236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA15CCCC-2D41-4C19-B565-65C294335CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA15CCCC-2D41-4C19-B565-65C294335CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA15CCCC-2D41-4C19-B565-65C294335CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA15CCCC-2D41-4C19-B565-65C294335CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0B8359-C38B-4900-B8F3-55018A9A1236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0B8359-C38B-4900-B8F3-55018A9A1236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0B8359-C38B-4900-B8F3-55018A9A1236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0B8359-C38B-4900-B8F3-55018A9A1236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jscholl.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NMRBillingApp\\NMRBillingApp.csproj
+		SccProjectName1 = NMRBillingApp
+		SccLocalPath1 = NMRBillingApp
+		SccProjectUniqueName2 = Logic\\Logic.csproj
+		SccProjectName2 = Logic
+		SccLocalPath2 = Logic
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\bin\Debug\NMRBillingApp.exe.config
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\bin\Debug\NMRBillingApp.exe
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\bin\Debug\NMRBillingApp.pdb
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\obj\Debug\NMRBillingApp.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\obj\Debug\NMRBillingApp.AdminForm.resources
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\obj\Debug\NMRBillingApp.Properties.Resources.resources
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\obj\Debug\NMRBillingApp.csproj.GenerateResource.Cache
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\obj\Debug\NMRBillingApp.exe
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\obj\Debug\NMRBillingApp.pdb
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\obj\Debug\NMRBillingApp.AdminLogin.resources
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\obj\Debug\NMRBillingApp.Main.resources
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\bin\Debug\Logic.dll
+C:\Users\Owner\Source\NMR-Billing\NMRBillingApp\NMRBillingApp\bin\Debug\Logic.pdb

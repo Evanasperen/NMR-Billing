@@ -1,0 +1,16 @@
+Jan 1 11:15:07 vnmr400 nmrbilling: 11:15 01/01/14 login zhang19 zhao
+Jan 1 11:34:42 vnmr400 nmrbilling: 11:34 01/01/14 logout zhang19
+Jan 1 12:06:00 vnmr400 nmrbilling: 12:06 01/01/14 login zhang19 zhao
+Jan 1 12:13:33 vnmr400 nmrbilling: 12:13 01/01/14 logout zhang19
+Jan 2 11:03:20 vnmr400 nmrbilling: 11:03 01/02/14 login raghunat sivaguru
+Jan 2 11:11:42 vnmr400 nmrbilling: 11:11 01/02/14 logout raghunat
+Jan 2 12:17:51 vnmr400 nmrbilling: 12:17 01/02/14 login rmanan zhao
+Jan 2 12:44:58 vnmr400 nmrbilling: 12:44 01/02/14 logout rmanan
+Jan 2 13:25:07 vnmr400 nmrbilling: 13:25 01/02/14 login aiyer kose
+Jan 2 13:35:37 vnmr400 nmrbilling: 13:35 01/02/14 logout aiyer
+Jan 2 13:25:07 vnmr400 nmrbilling: 13:34 01/02/14 login aiyer kose
+Jan 2 13:35:37 vnmr400 nmrbilling: 13:35 01/02/14 logout aiyer
+Jan 2 13:25:07 vnmr400 nmrbilling: 13:34 01/02/14 login aiyer kose
+Jan 2 13:35:37 vnmr400 nmrbilling: 13:35 01/02/14 logout aiyer
+Jan 2 13:25:07 vnmr400 nmrbilling: 13:25 01/02/14 login aiyer kose
+Jan 2 13:35:37 vnmr400 nmrbilling: 13:35 01/02/14 logout aiyer
